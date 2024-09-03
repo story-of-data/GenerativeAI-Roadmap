@@ -11,9 +11,9 @@ This repository offers a comprehensive learning path for Generative AI, covering
 
 
 The learning path is structured to accommodate different levels of expertise and interests:
-- **Must Have (\*):** Essential resources that provide a foundational understanding of Generative AI.
-- **Good to Have (\^):** Additional resources that enhance your knowledge and provide deeper insights.
-- **Optional (\#):** Resources that offer specialized or advanced information for those who want to explore further.
+- **Must Have (\*):** Essential resources that provide a foundational understanding of Generative AI. (Approx 6 Hours)
+- **Good to Have (\^):** Additional resources that enhance your knowledge and provide deeper insights. (Approx 3 Hours)
+- **Optional (\#):** Resources that offer specialized or advanced information for those who want to explore further. (Approx 4 Hours)
 
 ## Table of Contents
 
